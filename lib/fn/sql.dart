@@ -7,9 +7,9 @@ create(db) async {
       'CREATE TABLE calendar ('
           'id INTEGER PRIMARY KEY, '
           'frequency_period TEXT, '
-          'frequency_value INT, '
+          'frequency_value INTEGER, '
           'duration_period TEXT, '
-          'duration_value INT '
+          'duration_value INTEGER '
           ')');
 }
 

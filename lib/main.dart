@@ -7,7 +7,6 @@ import 'package:flutter_background_service_android/flutter_background_service_an
 import 'package:device_info_plus/device_info_plus.dart';
 import 'package:flutter_local_notifications/flutter_local_notifications.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:sqflite/sqflite.dart';
 
 
 
